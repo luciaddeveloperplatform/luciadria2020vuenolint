@@ -26,7 +26,7 @@ Simply copy a valid LuciadRIA license file into the folder './src/license'. Make
 Simply edit the ./src/main.js to start coding. The LuciadRIA Map is integrated as a VUE component
 
 ## What to expect
-You will see three LuciadRIA maps created from a single VUE component, data presented on each mao depends on the props passed to the it.
+You will see three LuciadRIA maps created from a single VUE component, data presented on each mao depends on the props passed to it.
 This is a very basic example but it shows a simple way to integrate LuciadRIA Maps as VUE components 
 
 ## Scripts:
@@ -37,11 +37,11 @@ This is a very basic example but it shows a simple way to integrate LuciadRIA Ma
 
 ## Key functionality
 
-- Parses and bundle js (Javascript)  and vue (VUE)
+- Parses and bundle .js (Javascript)  and .vue (VUE)
 - Development server with hot reload
 - Bundle code for production
 - Test server for production
-- This environment can be used as starting point for web applications or libraries
+- This environment can be used as starting point for new web applications
 - CSS/SCSS code is split from the final JS bundle for production
 - Static files are served as files (not bundled)
 - Easy to integrate with LuciadRIA 2020
