@@ -15,7 +15,7 @@ Change directory to the location of the repository and install your npm dependen
 ### Adding LuiadRIA 2020
 Before you can start you need to install the LuciadRIA 2020 api and the license.
 #### LuciadRIA Core module
-Install Luciad RIA from npm,  addapt the local file path to match the location of your LuciadRIA folder
+Install Luciad RIA using npm, you will have to addapt the local file path to match the location of your local LuciadRIA folder
 ```
 npm install --save C:\luciad\LuciadRIA_2020.0.01\packages\es6\ria
 ```
@@ -23,7 +23,7 @@ npm install --save C:\luciad\LuciadRIA_2020.0.01\packages\es6\ria
 Simply copy a valid LuciadRIA license file into the folder './src/license'. Make sure your license file is called 'luciadria_development.txt'
 
 ## How to use 
-Simply edit the ./src/main.js to start coding
+Simply edit the ./src/main.js to start coding. The LuciadRIA Map is integrated as a VUE component
 
 
 ## Scripts:
