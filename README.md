@@ -26,7 +26,7 @@ Simply copy a valid LuciadRIA license file into the folder './src/license'. Make
 Simply edit the ./src/main.js to start coding. The LuciadRIA Map is integrated as a VUE component
 
 ## What to expect
-You will see three LuciadRIA maps created from a single VUE component, data presented on each mao depends on the props passed to it.
+You will see three LuciadRIA maps created from a single VUE component, data presented on each map depends on the props passed to it.
 This is a very basic example but it shows a simple way to integrate LuciadRIA Maps as VUE components 
 
 ## Scripts:
