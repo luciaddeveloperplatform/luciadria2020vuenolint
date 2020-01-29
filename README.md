@@ -6,7 +6,7 @@
  For simplicity it does not include ESLint or Prettier. You can add them yourself on top 
 
 ## Description
-This basic setup can deal with js, jsx, css, scss and multiple static files (eot|svg|ttf|woff|woff2|png|jpg)
+This basic setup can deal with js, vue, css, scss and multiple static files (eot|svg|ttf|woff|woff2|png|jpg)
 
 ## How to install.  
 Simply download or clone this project from Github.
